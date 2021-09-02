@@ -21,4 +21,5 @@ class solution:
 
     """
     def kuaipai(self,nums):
-        def partition(low,high)
+        def partition(low,high):
+            
